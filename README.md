@@ -1,17 +1,18 @@
 # SentinelBot
 
-This is a bot used for a private gaming server. 
+### SentinelBot is used for private gaming servers.
 
 
-If you clone this adjust all values in the .envExample to your discord values, make sure to add a token to let the bot run
+## How to use this?
 
+- Install ``` node ``` and ``` npm ```
 
-Install node and npm
-install all node_modules
+- Install all ``` node_modules ``` 
 
-use node . or node index.js to run the bot
+- To run the bot, you can either use ``` node ``` or ``` index.js ```.
 
-For problems create an issue
+- Make sure to change all the values in the ``` .envExample ``` file as per the values of your own discord server and don't forget to add a token to run the bot.
 
+- Feel free to create an issue if you are facing any problems.
 
-Follow guidelines in contributing.md
+- In order to contribute to this project, kindly refer to the ``` contributing.md ``` file.

@@ -974,7 +974,7 @@ const sendMessageToAdmins = (message, args) => {
               message.content.substring(0, 3).replace(/\s/g, "").toLowerCase()
             )
           ) {
-            //CHANGE THIS
+            message.channel.send(`Thank you for voting on the application of **${args[0]}**!`)
             votes[args[0]][message.author.username] = message.content;
             saveVotes();
             forwardMessage(message, message.content.substring(3), args[0]);

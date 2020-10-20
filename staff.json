@@ -1,98 +1,137 @@
 {
   "migas94": {
     "rank": "Owner",
-    "id": "243110195704758273"
+    "id": "243110195704758273",
+    "ping": false
   },
   "Fjerreiro": {
     "rank": "SA",
-    "id": "243919331883352077"
+    "id": "243919331883352077",
+    "ping": false
   },
   "PaulinaCarrot": {
     "rank": "SA",
-    "id": "215430397855531018"
+    "id": "215430397855531018",
+    "ping": false
   },
   "Richgotya": {
     "rank": "SA",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "ninja5132": {
-    "rank": "SA",
-    "id": "560839542811131905"
+    "rank": "Admin",
+    "id": "560839542811131905",
+    "ping": false
   },
   "Toxic_Demon93": {
     "rank": "SA",
-    "id": "121419228959080450"
+    "id": "121419228959080450",
+    "ping": false
   },
   "AMNOTBANANAAMA": {
     "rank": "Admin",
-    "id": "429425851835088897"
+    "id": "429425851835088897",
+    "ping": false
   },
   "BrendaxNL": {
     "rank": "SA",
-    "id": "216926188906610688"
+    "id": "216926188906610688",
+    "ping": false
   },
   "HvPanda": {
     "rank": "Admin",
-    "id": ""
+    "id": "243081831891730433",
+    "ping": false
   },
   "Zarosi": {
     "rank": "Admin",
-    "id": "243097126635044864"
+    "id": "243097126635044864",
+    "ping": false
   },
   "Annu_Mannu67": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "AceAlmighty16": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "Creepy_Crawlers": {
     "rank": "Admin",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "ElizaPalooza": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "Jeffeatspie": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "KibikiKibble": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "Oplegoman": {
-    "rank": "Mod",
-    "id": ""
+    "rank": "Admin",
+    "id": "294569564262367252",
+    "ping": false
   },
   "RogueFriday": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "Fedgar_Lurch": {
     "rank": "Founder",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "Demoncrusher": {
     "rank": "Mod",
-    "id": ""
-  },
-  "Silver_Dragoon1": {
-    "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "charactername111": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
   },
   "bugsy12": {
     "rank": "Mod",
-    "id": ""
+    "id": "",
+    "ping": false
+  },
+  "Devereux": {
+    "rank": "Mod",
+    "id": "",
+    "ping": false
+  },
+  "FafaKuku": {
+    "rank": "Mod",
+    "id": "104558064815849472",
+    "ping": false
+  },
+  "xXCRYMINALXx": {
+    "rank": "Mod",
+    "id": "",
+    "ping": false
+  },
+  "Kita28": {
+    "rank": "Mod",
+    "id": "552570693498175491",
+    "ping": false
   },
   "Eagler1997": {
-    "rank": "dev",
-    "id": "243275264497418250"
+    "rank": "Tester",
+    "id": "243275264497418250",
+    "ping": false
   }
 }
